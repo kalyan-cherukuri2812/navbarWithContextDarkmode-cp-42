@@ -1,0 +1,25 @@
+.home-bg {
+  height: 100vh;
+  background-size: cover;
+}
+
+.home-card {
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.h-a-icon {
+  width: 250px;
+}
+
+.h-a-h {
+  font-family: roboto;
+}
+.home-bg-dark {
+  background-color: black;
+}
+.home-h-dark {
+  color: white;
+}
